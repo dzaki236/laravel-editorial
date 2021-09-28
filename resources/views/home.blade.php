@@ -32,7 +32,7 @@
 
 }
     </style>
-    <title>Hello, world!</title>
+    <title>Editorial Text</title>
 </head>
 
 <body>
