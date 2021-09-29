@@ -479,8 +479,7 @@
             <div class="container">
                 <div class="koran">
 
-                    <div
-                        style="background-image: url('https://ebooks.gramedia.com/ebook-covers/1498/image_highres/ID_KOMPAS2020MTH08DT07.jpg'); background-size:100%; background-position-y:-15em; ">
+                    <div style="background-image: url('https://ebooks.gramedia.com/ebook-covers/1498/image_highres/ID_KOMPAS2020MTH08DT07.jpg'); background-size:100%; background-position-y:-15em; ">
                     </div>
 
                     <div class="bg-white p-4">
