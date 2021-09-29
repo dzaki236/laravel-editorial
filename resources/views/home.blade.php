@@ -172,6 +172,9 @@
                                 <ul><li><h5 style="font-weight: bold;">Punya kata yang bersifat relatif</h5></li></ul>
                                 <p style="text-indent:1em;"><span class="h4">P</span>ada kalimat opini cenderung akan ditemukan kata yang bersifat relatif. Dalam hal ini relatif diartikan kata atau frasa tersebut cenderung bisa berubah tergantung siapa yang mengucapkannya. Kata-kata relatif seperti, paling, lebih, agak, sangat, tidak mungkin atau biasanya.ada kalimat opini bersifat subyektif. Di mana kalimat yang disampaikan cenderung subyektif, hanya dikemukakan oleh salah satu pihak saja.</p>
                             </div>
+                            <hr>
+                            <p>Simpulan</p>
+                            <p>Teks editorial adalah teks yang berisi pendapat pribadi seseorang terhadap suatu isu/masalah aktual. Isu tersebut meliputi masalah politik, sosial, atau pun masalah ekonomi yang memiliki hubungan secara signifikan dengan politik.</p>
                         </div>
                     </div>
                 </div>
@@ -187,8 +190,7 @@
         <div class="container">
             <div class="flipbook">
 
-                <div
-                    style="background-image: url('https://ebooks.gramedia.com/ebook-covers/1498/image_highres/ID_KOMPAS2020MTH08DT07.jpg'); background-size:100%; background-position-y:-15em; ">
+                <div style="background-image: url('https://ebooks.gramedia.com/ebook-covers/1498/image_highres/ID_KOMPAS2020MTH08DT07.jpg'); background-size:100%; background-position-y:-15em; ">
                 </div>
 
                 <div class="bg-white p-4">
