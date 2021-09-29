@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/pswrd/ku', function () {
+    return "dzakiganteng123~!&[]"."jangan di copy anjay";
+});
