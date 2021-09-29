@@ -6,7 +6,7 @@
 <script src="{{ asset('extras/modernizr.2.5.3.min.js') }}"></script>
 {{-- <script src=""></script> --}}
 {{-- <script src=""></script> --}}
-<script>
+{{-- <script>
             /*
  * Basic sample
 */
@@ -101,4 +101,4 @@ function isChrome() {
 return navigator.userAgent.indexOf('Chrome')!=-1;
 
 }
-</script>
+</script> --}}
