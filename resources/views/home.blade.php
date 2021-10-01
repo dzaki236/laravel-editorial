@@ -241,8 +241,8 @@
                     <div class="bg-light p-4">
                         <div class="rwo">
                             <div class="col-12">
-                                <h1 class="text-center">Penjelasan Text Editorial</h1>
-                                <hr>
+                                <h1 class="text-center mt-5 pt-5 display-3"><b> Penjelasan Text Editorial </b></h1><h1 class="text-center mt-2 display-4" style="color:black;font-size: 10em;"><b>&#9760;
+                                </b></h1>                                <hr>
                                 <p><q> Menjelaskan tentang Text Editorial,Tajuk Rencana,dan Opini Berita </q></p>
                                 <hr>
                                 <h3>By : Kelompok 3</h3>
@@ -461,11 +461,13 @@
                                     isu/masalah aktual. Isu tersebut meliputi masalah politik, sosial, atau pun
                                     masalah
                                     ekonomi yang memiliki hubungan secara signifikan dengan politik.</p>
+                                    <img src="{{ asset('frame.png') }}" alt="" width="200px"><br>
+                                    <p>Sumber Buku</p>
                             </div>
                         </div>
                     </div>
                     <div class="bg-white"></div>
-                    <div class="bg-dark text-white"><h1 class="text-center mt-5 pt-5 display-3"><b> Death Note</b></h1><h1 class="text-center mt-2 display-4"><b>&#9760;
+                    <div class="bg-dark text-white"><h1 class="text-center mt-5 pt-5 display-3"><b> Death Note</b></h1><h1 class="text-center mt-2 display-4" style="font-size: 12em;"><b>&#9760;
                     </b></h1></div>
                 </div>
             </div>
